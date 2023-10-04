@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+   
+}
+body {
+    background-color: black;
+
+}
+body ::selection {
+background: #3AF863;
+}
+mark {
+    background: greenyellow;
+    opacity: 50%;
+}
+p {
+    color: aliceblue;
+    text-align: center;
+}
+#astronaut {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#earth {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+h3 {
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+#moonland {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+   
+}
